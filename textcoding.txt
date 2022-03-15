@@ -1,3 +1,1 @@
 hello world
-line2
-hihi
